@@ -18,7 +18,7 @@ npm install
 ```
 
 ### 3. Copy the environment variables to `.env` and change the values
-### Since it is a private repo I have provided my .env file here so you can skip this step
+#### Since it is a private repo I have provided my .env file here so you can skip this step
 
 ```shell
 cp .env.example .env
