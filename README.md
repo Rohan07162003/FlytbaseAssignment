@@ -17,12 +17,9 @@ git clone https://github.com/Rohan07162003/FlytbaseAssignment.git
 npm install
 ```
 
-### 3. Copy the environment variables to `.env` and change the values
-#### Since it is a private repo I have provided my .env file here so you can skip this step
+### 3. Add the mongodb url to `.env`
 
-```shell
-cp .env.example .env
-```
+Generate a key from mongodb and paste it under mongo_url="<paste url here>"
 
 ### 4. Run the server
 
